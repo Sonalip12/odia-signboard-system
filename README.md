@@ -24,6 +24,8 @@ from GitHub once this repo is pushed). The first cell installs everything
 automatically in Colab's cloud environment — **nothing is installed on the
 reviewer's own computer**. Just click "Run all".
 
+OPEN THIS: https://colab.research.google.com/github/Sonalip12/odia-signboard-system/blob/main/notebooks/demo.ipynb
+
 ### Option B: Docker (one command, fully self-contained)
 ```bash
 docker build -t odia-signboard .
