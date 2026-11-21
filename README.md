@@ -18,7 +18,7 @@ full phrase list and `src/generate_dataset.py` for the generator.
 
 ## Run it — three options, no manual setup needed
 
-### Option A (recommended for your sir): Google Colab notebook
+### Option A : Google Colab notebook
 Open `notebooks/demo.ipynb` in Google Colab ("Open in Colab" works directly
 from GitHub once this repo is pushed). The first cell installs everything
 automatically in Colab's cloud environment — **nothing is installed on the
