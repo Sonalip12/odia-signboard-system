@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+dataset/images/
+dataset/labels.csv
+dataset/evaluation_results.csv
+outputs/*.jpg
+.ipynb_checkpoints/
